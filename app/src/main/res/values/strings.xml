@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SPERRYJOHN\'s Animal Names</string>
+    <string name="manage_block_animals">Manage block animals</string>
+    <string name="animal_names_from_a_to_z">Animal names from A to Z</string>
+    <string name="animal_description">Animal Description</string>
+    <string name="animal_name">Animal Name</string>
+    <string name="block_animal">Block Animal</string>
+    <string name="animal_details">Animal Details</string>
+    <string name="manage_block_animals_1">Manage Block Animals</string>
+</resources>
